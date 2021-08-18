@@ -1,0 +1,29 @@
+.ui-header {
+	border-width: 0 !important;
+    background-color: #5fcfad!important;
+	color: #fff !important;
+}
+
+h1.ui-title {
+    background: none;
+    color: #fff !important;
+}
+
+.five9-action-btn {
+
+    background-color: #6ebac5 !important;
+	color: #fff !important;
+}
+
+.five9-action-btn:hover:not(disabled) {
+    background-color: #6ebac5 !important;
+}
+
+.five9-chat-button {
+    background: linear-gradient(#5fcfad, #5fcfad) !important;
+	font-size: 24px !important;
+	
+}
+.five9-chat-button:after { content: 'Chat Now' !important;
+
+}
