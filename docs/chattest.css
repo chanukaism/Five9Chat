@@ -1,1 +1,24 @@
+.ui-header {
+	border-width: 0 !important;
+    background-color: #292F33 !important;
+	color: #fff !important;
+}
 
+h1.ui-title {
+    background: none;
+    color: #fff !important;
+}
+
+.five9-action-btn {
+    border: 1px solid #003359 !important;
+    background-color: #007DB3 !important;
+	color: #fff !important;
+}
+
+.five9-action-btn:hover:not(disabled) {
+    background-color: #1D9DD2 !important;
+}
+
+.five9-chat-button {
+    background: linear-gradient(#007DB3, #2281B8) !important;
+}
