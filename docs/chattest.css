@@ -1,3 +1,9 @@
+.five9-chat-button {
+    background: linear-gradient(#5fcfad, #28b86b) !important;
+    color:black;	
+}
+
+
 .ui-header {
 	border-width: 0 !important;
     background-color: #5fcfad !important;
@@ -19,7 +25,3 @@ h1.ui-title {
     background-color: #28b86b !important;
 }
 
-.five9-chat-button {
-    background: linear-gradient(#5fcfad, #28b86b) !important;
-    color:black;	
-}
