@@ -1,5 +1,9 @@
 <style type='text/css'>
 
+div#five9-minimize-button {
+    background: orange !important;
+}
+
 .five9-chat-button {
     background: linear-gradient(#5fcfad, #f54290) !important;
     color:black !important;
