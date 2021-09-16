@@ -4,19 +4,6 @@ div#five9-minimize-button {
     background: pink !important;
 }
 
-.five9-chat-button {
-    background: linear-gradient(#5fcfad, #f54290) !important;
-    color:black !important;
-	font-size: 24px !important;
-}
-
-.five9-chat-button:after { 
-	content: 'Chat Now' !important;
-	background: linear-gradient(#5fcfad, #f54290) !important;
-    	color:black !important;
-	font-size: 24px !important;
-
-}
 
 .ui-header {
 	border-width: 0 !important;
