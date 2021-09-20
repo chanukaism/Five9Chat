@@ -27,7 +27,11 @@
     cursor: pointer;
 }
 
-.ui-input-search input {
+.ui-input-search {
+    border-radius: 0px !important;
+}
+
+.ui-corner-all {
     border-radius: 0px !important;
 }
 
