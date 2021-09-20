@@ -1,7 +1,13 @@
 <style type='text/css'>
 
-div#five9-minimize-button {
-    background: pink !important;
+@font-face {
+	font-family: 'averta';
+	
+	src: 
+		local('averta'),
+		local('averta'),
+		url('https://github.com/chanukaism/Five9Chat/blob/01aefb630f14075c8d8b70c7152c2131020c3954/docs/Intelligent%20Design%20-%20Averta%20Black.otf') 
+		format('opentype');
 }
 
 
@@ -9,6 +15,7 @@ div#five9-minimize-button {
 	border-width: 0 !important;
     background-color: #5fcfad !important;
 	color: #fff !important;
+	font-family:"averta",Helvetica,Arial,sans-serif;
 }
 
 h1.ui-title {
