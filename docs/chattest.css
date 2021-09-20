@@ -26,6 +26,11 @@
     line-height: 1;
     cursor: pointer;
 }
+
+.ui-input-text input, .ui-input-search input {
+    border-radius: 0px !important;
+}
+
 .ui-header {
 	border-width: 0 !important;
     background-color: #5fcfad !important;
