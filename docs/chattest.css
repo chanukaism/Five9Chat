@@ -24,6 +24,7 @@ h1.ui-title {
 }
 
 .five9-action-btn {
+    font-family:"averta",Helvetica,Arial,sans-serif !important; 
     border: 1px solid #003359 !important;
     background-color: #5fcfad !important;
 	color: #fff !important;
