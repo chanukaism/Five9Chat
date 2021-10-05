@@ -47,7 +47,7 @@ chatLangCallback({
     "S_LOCAL_STORAGE": "The current version of your browser is not supported.<br /><br />Upgrade to a modern browser.",
     "S_LOCAL_STORAGE_SAFARI": "The current version of your browser is not supported (or you are using a Private Window in Safari).<br /><br />Upgrade to a modern browser.",
     "S_BEFORE_UNLOAD": "If you reload this page, you will exit the current chat session.", 
-    "S_NO_SERVICE": "No agents are currently available. Try again later or send an email.", 
+    "S_NO_SERVICE": "Aucun agent n'est actuellement disponible. Réessayez plus tard ou envoyez un e-mail.", 
     "S_NETWORK_LOST": "The network connection was lost. Check your network connection or try again later." 
   },
   
