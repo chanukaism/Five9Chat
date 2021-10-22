@@ -1,23 +1,24 @@
+
 chatLangCallback({
-  "APPLICATION_TYPE": "discuter",
-  "S_PAGE_TITLE": "discuter",
+  "APPLICATION_TYPE": "Chat",
+  "S_PAGE_TITLE": "Chat",
   "S_PROVIDER": "<span class='provider-text'>Provided by <span class='provider-five'>Five</span><span class='provider-nine'>9</span></span>",
-  "S_NO_NAME": "Moi",
+  "S_NO_NAME": "Me"
   "S_INITIALIZATION_PAGE": {
-    "S_CONTENT": "Initialisation..."
+    "S_CONTENT": "Initialization..."
   },
   "S_INFORMATION_PAGE": {
-    "S_PROFILE_LABEL": "Profil",
-    "S_NAME_LABEL": "Nom",
-    "S_EMAIL_LABEL": "Adresse e-mail",
+    "S_PROFILE_LABEL": "Profile",
+    "S_NAME_LABEL": "Name",
+    "S_EMAIL_LABEL": "Email address",
     "S_QUESTION_LABEL": "Question",
     "S_START_BUTTON": "Commencer discuter"
   },
   "S_CONNECTING_PAGE": {
-    "S_CONTENT": "Vous êtes connecté à un agent."
+    "S_CONTENT": "You are being connected to an agent."
   },
   "S_CONVERSATION_PAGE": {
-    "S_SEND_BUTTON": "Envoyer",
+    "S_SEND_BUTTON": "Send",
     "S_EXIT_CONFERENCE": "Agent {0} left the conference.",
     "S_TRANSFER_GROUP": "You have been transferred to group {0}.",
     "S_AGENT_END": "The agent ended the chat.",
@@ -47,7 +48,7 @@ chatLangCallback({
     "S_LOCAL_STORAGE": "The current version of your browser is not supported.<br /><br />Upgrade to a modern browser.",
     "S_LOCAL_STORAGE_SAFARI": "The current version of your browser is not supported (or you are using a Private Window in Safari).<br /><br />Upgrade to a modern browser.",
     "S_BEFORE_UNLOAD": "If you reload this page, you will exit the current chat session.", 
-    "S_NO_SERVICE": "Aucun agent n'est actuellement disponible. Réessayez plus tard ou envoyez un e-mail.", 
+    "S_NO_SERVICE": "No agents are currently available. Try again later or send an email.", 
     "S_NETWORK_LOST": "The network connection was lost. Check your network connection or try again later." 
   },
   
