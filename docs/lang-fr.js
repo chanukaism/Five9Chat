@@ -2,7 +2,7 @@ chatLangCallback({
   "APPLICATION_TYPE": "discuter",
   "S_PAGE_TITLE": "discuter",
   "S_PROVIDER": "<span class='provider-text'>Provided by <span class='provider-five'>Five</span><span class='provider-nine'>9</span></span>",
-  "S_NO_NAME": "Moi"
+  "S_NO_NAME": "Moi",
   "S_INITIALIZATION_PAGE": {
     "S_CONTENT": "Initialisation..."
   },
