@@ -11,7 +11,7 @@ chatLangCallback({
     "S_NAME_LABEL": "Nom",
     "S_EMAIL_LABEL": "Adresse e-mail",
     "S_QUESTION_LABEL": "Question",
-    "S_START_BUTTON": "Commencer à discuter"
+    "S_START_BUTTON": "Commencer discuter"
   },
   "S_CONNECTING_PAGE": {
     "S_CONTENT": "Vous êtes connecté à un agent."
